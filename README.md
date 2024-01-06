@@ -1,1 +1,1 @@
-# simple-console-gameapp
+# Simple java console game app
